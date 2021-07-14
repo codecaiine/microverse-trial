@@ -1,0 +1,49 @@
+.navbar ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+
+  /* assumes you only want one row */
+}
+
+.alignCenter {
+  align-items: center;
+}
+
+.a {
+  padding-top: 80px;
+}
+
+.b {
+  text-align: center;
+}
+
+.c {
+  padding-top: 100px;
+}
+
+.d {
+  padding-right: 90px;
+}
+
+.e {
+  font-size: xxx-large;
+  color: orange;
+  float: right;
+}
+
+.f {
+  padding-top: 70px;
+}
+
+.g {
+  padding-right: 80px;
+}
+
+.h {
+  color: orange;
+  float: right;
+}
